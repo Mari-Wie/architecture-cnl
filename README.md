@@ -1,5 +1,6 @@
 # architecture-cnl
-Attention
+Attention:
+
 This repository may not be used any longer. Please use org.architecture.cnl.parent instead!
   
 Use the architecture controlled natural language (CNL) to define a common architecture language used in your project and to define architecture rules.
